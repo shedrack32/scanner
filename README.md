@@ -5,6 +5,6 @@ target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blac
 
 
 
-## TOPU TECH GENERAL PAIRINNG CODE
+## 𝘡𝘌𝘡𝘌47 𝘛𝘌𝘊𝘏 GENERAL PAIRINNG CODE
 
    
