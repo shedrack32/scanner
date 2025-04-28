@@ -60,10 +60,10 @@ router.get('/', async (req, res) => {
 	
 				   let FLASH_MD_TEXT = `
 *𝕰𝖊𝖊𝖞... 𝖙𝖔𝖕𝖚 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
-*Wow you choosen TOPU-MD complete the deployment and enyoy the speed*
+*Wow you choosen 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
-║『 *TOPU AI IS READY TO DEPLOY』
+║『 *𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 AI IS READY TO DEPLOY』
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
@@ -72,14 +72,14 @@ ____________________________________
 
 ║ ❒ 𝐎wner: _https://wa.me/message/5WRTCPHFKUGFM1_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Toputech/Topu-ai_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/humphreymbise/ZEZE47_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/BxelCdrHnDYBNfMy2jafgI_
 
 ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r_
 ║ 
 ╚════════════════════╝ 
- *©TOPU TECH*
+ *©𝘡𝘌𝘡𝘌47 𝘛𝘌𝘊𝘏*
 ___________________________________
 
 _Don't Forget To Give Star To My Repo_`
