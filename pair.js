@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
                let FLASH_MD_TEXT = `
-*𝕰𝖊𝖊𝖞... 𝖙𝖔𝖕𝖚 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
+*𝕰𝖊𝖊𝖞...𝐇𝐔𝐌𝐏𝐇𝐑𝐄𝐘𝐌𝐁𝐈𝐒𝐄/𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
 *Wow you choosen 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
@@ -72,7 +72,7 @@ ____________________________________
 
 ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/humphreymbise/ZEZE47_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/DdKP0nI2ZAm1AgyDQGN0tF_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CS06nnz6auIIVESZwycqOl_
 
 ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r_
 ║ 
