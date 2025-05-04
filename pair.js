@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
                let FLASH_MD_TEXT = `
-*HELLOW WELCOME TO..𝐇𝐔𝐌𝐏𝐇𝐑𝐄𝐘𝐌𝐁𝐈𝐒𝐄/𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 has 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
+*HELLOW WELCOME TO..🛰️𝐇𝐔𝐌𝐏𝐇𝐑𝐄𝐘𝐌𝐁𝐈𝐒𝐄/𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃🛰️has 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
 *Wow you choosen 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
@@ -70,7 +70,7 @@ ____________________________________
 
 ║ ❒ 𝐎wner: _https://wa.me/c/255682937675_
 
-║ ❒ 𝐑𝐞𝐩𝐨:𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃
+║ ❒ 𝐑𝐞𝐩𝐨:𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 SUPPORT BOT 
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CS06nnz6auIIVESZwycqOl_
 
