@@ -70,7 +70,7 @@ ____________________________________
 
 ║ ❒ 𝐎wner: _https://wa.me/c/255682937675_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/humphreymbise/ZEZE47_
+║ ❒ 𝐑𝐞𝐩𝐨:𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CS06nnz6auIIVESZwycqOl_
 
