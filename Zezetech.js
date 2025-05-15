@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃-Qr-Scanner is Live
+Topu-Qr-Scanner is Live
 
  Server running on http://localhost:` + PORT)
 })
