@@ -1,14 +1,14 @@
 {
-    "description": "zeze-sessions",
-    "main": "./zezetech.js",
+    "description": "Zeze-sessions",
+    "main": "./Zezetech.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node zezetech.js"
+    "start": "node Zezetech.js"
   },
-  "author": "zeze tech",
+  "author": "Zeze tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
