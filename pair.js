@@ -20,7 +20,7 @@ function removeFile(FilePath){
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-        async function FLASH_MD_PAIR_CODE() {
+        async function SHADOW_MDA_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -56,33 +56,33 @@ router.get('/', async (req, res) => {
                let b64data = Buffer.from(data).toString('base64');
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
-               let FLASH_MD_TEXT = `
-*HELLOW WELCOME TO..🛰️𝐇𝐔𝐌𝐏𝐇𝐑𝐄𝐘𝐌𝐁𝐈𝐒𝐄/𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃🛰️has 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
-*Wow you choosen 𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 complete the deployment and enyoy the speed*
+               let SHADOW_MDA_TEXT = `
+*HELLOW WELCOME TO..🛰️SHADOW-𝐌𝐃A🛰️has 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
+*Wow you choosen SHADOW-𝐌𝐃A complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
-║『 *𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 IS READY TO DEPLOY』
+║『 *SHADOW-𝐌𝐃A IS READY TO DEPLOY』
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 
-║ ❒ 𝐎wner: _https://wa.me/c/255682937675_
+║ ❒ 𝐎wner: _https://wa.me/c/255746476002_
 
-║ ❒ 𝐑𝐞𝐩𝐨:𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 SUPPORT BOT 
+║ ❒ 𝐑𝐞𝐩𝐨:SHADOW-𝐌𝐃A SUPPORT BOT 
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CS06nnz6auIIVESZwycqOl_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _
 ║ 
 ╚════════════════════╝ 
-𝐙𝐄𝐙𝐄𝟒𝟕-𝐌𝐃 ɪs ᴠᴇʀʏ sᴀғᴇ ғᴏʀ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ 🌹❣️
- *©𝘡𝘌𝘡𝘌47 𝘛𝘌𝘊𝘏*
+SHADOW-𝐌𝐃A ɪs ᴠᴇʀʏ sᴀғᴇ ғᴏʀ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ 🌹❣️
+ *©SHADOW 𝘛𝘌𝘊𝘏*
 ___________________________________
 
 Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
+ await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:SHADOW_MDA_TEXT},{quoted:session})
  
 
         await delay(100);
@@ -90,7 +90,7 @@ Don't Forget To Give Star To My Repo_`
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    FLASH_MD_PAIR_CODE();
+                    SHADOW_MDA_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -101,6 +101,6 @@ Don't Forget To Give Star To My Repo_`
          }
         }
     }
-    return await FLASH_MD_PAIR_CODE()
+    return await SHADOW_MDA_PAIR_CODE()
 });
 module.exports = router
